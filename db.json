@@ -1,0 +1,91 @@
+[{
+        "teamName": "Australia",
+        "teamImage": "https://www.cricbuzz.com/a/img/v1/13x13/i1/c172117/cms-img.jpg",
+        "points": 84,
+        "played": 10,
+        "results": "6/1/3",
+        "pct": 70.0,
+        "recentForm": "WWDLW",
+        "qualified": true
+    },
+    {
+        "teamName": "South Africa",
+        "teamImage": "https://www.cricbuzz.com/a/img/v1/13x13/i1/c172126/cms-img.jpg",
+        "points": 72,
+        "played": 10,
+        "results": "6/4/0",
+        "pct": 60.0,
+        "recentForm": "WWDDW",
+        "qualified": true
+    },
+    {
+        "teamName": "Sri Lanka",
+        "teamImage": "https://www.cricbuzz.com/a/img/v1/13x13/i1/c172119/cms-img.jpg",
+        "points": 64,
+        "played": 10,
+        "results": "5/4/1",
+        "pct": 53.33,
+        "recentForm": "WWDLL",
+        "qualified": false
+    },
+    {
+        "teamName": "India",
+        "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1280,q_80/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+        "points": 75,
+        "played": 12,
+        "results": "6/4/2",
+        "pct": 52.08,
+        "recentForm": "WWDWW",
+        "qualified": false
+    },
+    {
+        "teamName": "Pakistan",
+        "teamImage": "https://www.cricbuzz.com/a/img/v1/13x13/i1/c172116/cms-img.jpg",
+        "points": 56,
+        "played": 9,
+        "results": "4/3/2",
+        "pct": 51.85,
+        "recentForm": "WWLLD",
+        "qualified": false
+    },
+    {
+        "teamName": "West Indies",
+        "teamImage": "https://www.cricbuzz.com/a/img/v1/13x13/i1/c172124/cms-img.jpg",
+        "points": 54,
+        "played": 9,
+        "results": "4/3/2",
+        "pct": 50.0,
+        "recentForm": "LWDLD",
+        "qualified": false
+    },
+    {
+        "teamName": "England",
+        "teamImage": "https://www.cricbuzz.com/a/img/v1/13x13/i1/c172123/cms-img.jpg",
+        "points": 88,
+        "played": 19,
+        "results": "7/8/4",
+        "pct": 38.6,
+        "recentForm": "LLWWD",
+        "qualified": false
+    },
+    {
+        "teamName": "New Zealand",
+        "teamImage": "https://www.cricbuzz.com/a/img/v1/13x13/i1/c172128/cms-img.jpg",
+        "points": 28,
+        "played": 9,
+        "results": "2/6/1",
+        "pct": 25.93,
+        "recentForm": "LLWLD",
+        "qualified": false
+    },
+    {
+        "teamName": "Bangladesh",
+        "teamImage": "https://www.cricbuzz.com/a/img/v1/13x13/i1/c172120/cms-img.jpg",
+        "points": 16,
+        "played": 10,
+        "results": "1/8/1",
+        "pct": 13.63,
+        "recentForm": "LLLLL",
+        "qualified": false
+    }
+]
